@@ -1,0 +1,6 @@
+.modal-size {
+  width: 600px !important;
+  max-width: 90vw !important;
+  height: 600px !important;
+  max-height: 90vh !important;
+}
