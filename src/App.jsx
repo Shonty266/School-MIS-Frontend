@@ -1,11 +1,11 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom"
-import Dashboard from "./pages/Dashboard"
-import Students from "./pages/Students"
-import Teachers from "./pages/Teachers"
-import ClassManagement from "./pages/ClassManagement"
-import AllSectionsPage from "./pages/AllSections"
-import Subjects from "./pages/Subjects"
-import AcademicCalendar from "./pages/AcademicCalender"
+import Dashboard from "./pages/Dashboard.jsx"
+import Students from "./pages/Students.jsx"
+import Teachers from "./pages/Teachers.jsx"
+import ClassManagement from "./pages/ClassManagement.jsx"
+import AllSectionsPage from "./pages/AllSections.jsx"
+import Subjects from "./pages/Subjects.jsx"
+import AcademicCalendar from "./pages/AcademicCalender.jsx"
 export default function App() {
   return (
     <Router>
