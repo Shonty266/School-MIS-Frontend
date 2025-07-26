@@ -1,5 +1,5 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom"
-import Dashboard from "./pages/Dashboard" // make sure path is correct
+import Dashboard from "./pages/Dashboard"
 import Students from "./pages/Students"
 import Teachers from "./pages/Teachers"
 import ClassManagement from "./pages/ClassManagement"
